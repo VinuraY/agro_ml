@@ -1,4 +1,4 @@
-Agro ML - tinyML model for identify tomato plant related diseases
+# Agro ML - tinyML model for identify tomato plant related diseases
 
 >A quantized MobileNetV2 model trained to classify tomato plant diseases from images, converted to INT8 TFLite and packaged as a C header for direct use on ESP32 microcontrollers.
 
